@@ -36,7 +36,7 @@ This repo documents my progress as I learn Python from the basics and build my p
 - Arguments
 - Return values
 
-## 💻 Projects & Practice
+##Projects & Practice
 
 - Digital ID
 - User Information Program
@@ -52,7 +52,7 @@ This repo documents my progress as I learn Python from the basics and build my p
 - Multiplication Function
 - Letter Counter
 
-## 📁 Repository Structure
+##Repository Structure
 
 ```text
 python-learning/
