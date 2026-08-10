@@ -3,7 +3,7 @@
 
 Welcome to my Python learning repository!
 
-This repo documents my progress as I learn Python from the basics and build my programming skills for my future in **Computer Engineering**.
+This repo documents my progress as I learn Python from the basics and build my programming skills for my future in Computer Engineering.
 
 What I'm Learning
 
